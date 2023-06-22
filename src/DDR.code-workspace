@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "DDR",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"stm32-for-vscode.openOCDPath": false,
+		"stm32-for-vscode.makePath": false,
+		"stm32-for-vscode.armToolchainPath": false
+	}
+}
